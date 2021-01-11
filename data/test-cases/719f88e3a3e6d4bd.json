@@ -1,0 +1,49 @@
+{
+  "uid" : "719f88e3a3e6d4bd",
+  "name" : "iso_number_01",
+  "historyId" : "logtalk/tests/prolog/syntax/numbers/tests.lgt:tests#iso_number_01",
+  "time" : {
+    "start" : 1610374643000,
+    "stop" : 1610374643000,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "logtalk/tests/prolog/syntax/numbers/tests.lgt"
+  }, {
+    "name" : "testClass",
+    "value" : "tests"
+  }, {
+    "name" : "package",
+    "value" : "tests"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "719f88e3a3e6d4bd.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,55 @@
+{
+  "uid" : "c0ff4fef3c9ff849",
+  "name" : "lgt_format_2_canonical",
+  "historyId" : "logtalk/tests/prolog/predicates/format_2/tests.lgt:tests#lgt_format_2_canonical",
+  "time" : {
+    "start" : 1610374218000,
+    "stop" : 1610374218000,
+    "duration" : 0
+  },
+  "status" : "failed",
+  "statusMessage" : "Error instead of success",
+  "statusTrace" : "error(type_error(list,'~k'),must_be/2)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "logtalk/tests/prolog/predicates/format_2/tests.lgt"
+  }, {
+    "name" : "testClass",
+    "value" : "tests"
+  }, {
+    "name" : "package",
+    "value" : "tests"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "c0ff4fef3c9ff849.json",
+  "parameterValues" : [ ]
+}

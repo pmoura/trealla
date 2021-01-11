@@ -1,0 +1,51 @@
+{
+  "uid" : "7d0178b77d33231c",
+  "name" : "iso_unify_2_15",
+  "historyId" : "logtalk/tests/prolog/predicates/unify_2/tests.lgt:tests#iso_unify_2_15",
+  "time" : {
+    "start" : 1610374588000,
+    "stop" : 1610374588000,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "statusMessage" : "Skipped test",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "logtalk/tests/prolog/predicates/unify_2/tests.lgt"
+  }, {
+    "name" : "testClass",
+    "value" : "tests"
+  }, {
+    "name" : "package",
+    "value" : "tests"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7d0178b77d33231c.json",
+  "parameterValues" : [ ]
+}
