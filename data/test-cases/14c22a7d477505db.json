@@ -1,0 +1,49 @@
+{
+  "uid" : "14c22a7d477505db",
+  "name" : "lgt_bitwise_or_2_13",
+  "historyId" : "logtalk/tests/prolog/functions/bitwise_or_2/tests.lgt:tests#lgt_bitwise_or_2_13",
+  "time" : {
+    "start" : 1610411616000,
+    "stop" : 1610411616000,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "logtalk/tests/prolog/functions/bitwise_or_2/tests.lgt"
+  }, {
+    "name" : "testClass",
+    "value" : "tests"
+  }, {
+    "name" : "package",
+    "value" : "tests"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "14c22a7d477505db.json",
+  "parameterValues" : [ ]
+}

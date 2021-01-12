@@ -1,0 +1,49 @@
+{
+  "uid" : "def55ffcde0c6051",
+  "name" : "lgt_curly_bracketed_term_07",
+  "historyId" : "logtalk/tests/prolog/syntax/curly_terms/tests.lgt:tests#lgt_curly_bracketed_term_07",
+  "time" : {
+    "start" : 1610412327000,
+    "stop" : 1610412327000,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "logtalk/tests/prolog/syntax/curly_terms/tests.lgt"
+  }, {
+    "name" : "testClass",
+    "value" : "tests"
+  }, {
+    "name" : "package",
+    "value" : "tests"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "def55ffcde0c6051.json",
+  "parameterValues" : [ ]
+}

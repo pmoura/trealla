@@ -1,0 +1,55 @@
+{
+  "uid" : "f8fd152b5d7047c5",
+  "name" : "lgt_log_2_10",
+  "historyId" : "logtalk/tests/prolog/functions/log_2/tests.lgt:tests#lgt_log_2_10",
+  "time" : {
+    "start" : 1610411712000,
+    "stop" : 1610411712000,
+    "duration" : 0
+  },
+  "status" : "failed",
+  "statusMessage" : "Wrong error",
+  "statusTrace" : "error(type_error(evaluable,log/2),(is)/2)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "logtalk/tests/prolog/functions/log_2/tests.lgt"
+  }, {
+    "name" : "testClass",
+    "value" : "tests"
+  }, {
+    "name" : "package",
+    "value" : "tests"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "f8fd152b5d7047c5.json",
+  "parameterValues" : [ ]
+}
