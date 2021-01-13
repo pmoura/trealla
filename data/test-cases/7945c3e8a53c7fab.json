@@ -1,0 +1,49 @@
+{
+  "uid" : "7945c3e8a53c7fab",
+  "name" : "swi_setup_call_cleanup_3_04",
+  "historyId" : "logtalk/tests/prolog/predicates/setup_call_cleanup_3/tests.lgt:tests#swi_setup_call_cleanup_3_04",
+  "time" : {
+    "start" : 1610496131000,
+    "stop" : 1610496131000,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "logtalk/tests/prolog/predicates/setup_call_cleanup_3/tests.lgt"
+  }, {
+    "name" : "testClass",
+    "value" : "tests"
+  }, {
+    "name" : "package",
+    "value" : "tests"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7945c3e8a53c7fab.json",
+  "parameterValues" : [ ]
+}
