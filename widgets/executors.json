@@ -1,3 +1,4 @@
 [ {
-  "name" : "logtalk_tester"
+  "name" : "logtalk_tester",
+  "buildOrder" : 1
 } ]
