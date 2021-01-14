@@ -3,9 +3,9 @@
   "data" : {
     "failed" : 169,
     "broken" : 0,
-    "skipped" : 45,
-    "passed" : 1681,
+    "skipped" : 46,
+    "passed" : 1682,
     "unknown" : 0,
-    "total" : 1895
+    "total" : 1897
   }
 } ]

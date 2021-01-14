@@ -1,0 +1,55 @@
+{
+  "uid" : "3a6b543a220311bb",
+  "name" : "iso_term_variables_2_06",
+  "historyId" : "logtalk/tests/prolog/predicates/term_variables_2/tests.lgt:tests#iso_term_variables_2_06",
+  "time" : {
+    "start" : 1610620362000,
+    "stop" : 1610620362000,
+    "duration" : 0
+  },
+  "status" : "failed",
+  "statusMessage" : "Error instead of success",
+  "statusTrace" : "error(resource_error(too_many_vars,'$catch'(c(tests,tests,r(lgtunit,tests,c(lgtunit,lgtunit,r(tests,tests,[],[])),[])),('$lgt_set_compiler_flag'(report,warnings),'$lgt_set_compiler_flag'(suspicious_calls,silent),'$lgt_logtalk_load'(lgtunit(loader),'/home/runner/logtalk/tests/prolog/predicates/term_variables_2/',c(user,user,r(user,user,[],[]))),'$lgt_logtalk_load'(tests,[hook(lgtunit)],'/home/runner/logtalk/tests/prolog/predicates/term_variables_2/',c(user,user,r(user,user,[],[]))),tests::run),('$lgt_set_compiler_flag'(report,warnings),'$lgt_set_compiler_flag'(suspicious_calls,silent),'$lgt_logtalk_load'(lgtunit(loader),'/home/runner/logtalk/tests/prolog/predicates/term_variables_2/',c(user,user,r(user,user,[],[]))),'$lgt_logtalk_load'(tests,[hook(lgtunit)],'/home/runner/logtalk/tests/prolog/predicates/term_variables_2/',c(user,user,r(user,user,[],[]))),tests::run))),copy_term/2)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "logtalk/tests/prolog/predicates/term_variables_2/tests.lgt"
+  }, {
+    "name" : "testClass",
+    "value" : "tests"
+  }, {
+    "name" : "package",
+    "value" : "tests"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "3a6b543a220311bb.json",
+  "parameterValues" : [ ]
+}
