@@ -1,0 +1,55 @@
+{
+  "uid" : "690da27c37fcc12c",
+  "name" : "sics_op_3_22",
+  "historyId" : "predicates/op_3/tests.lgt:tests#sics_op_3_22",
+  "time" : {
+    "start" : 1610929427000,
+    "stop" : 1610929427000,
+    "duration" : 0
+  },
+  "status" : "failed",
+  "statusMessage" : "Success instead of error",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "predicates/op_3/tests.lgt"
+  }, {
+    "name" : "testClass",
+    "value" : "tests"
+  }, {
+    "name" : "package",
+    "value" : "tests"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "690da27c37fcc12c.json",
+  "parameterValues" : [ ]
+}
